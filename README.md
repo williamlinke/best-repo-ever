@@ -1,4 +1,4 @@
 # best-repo-ever
-# This was for Salesforce Trailhead!!!
+# This wuz for Salesforce Trailhead!!!
 
 #BANZII
